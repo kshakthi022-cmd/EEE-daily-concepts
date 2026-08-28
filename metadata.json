@@ -1,0 +1,6 @@
+{
+  "name": "Daily EEE Micro-Learning",
+  "description": "Daily Electrical & Electronics Engineering micro-learning cards with structured explanations, formulas, units, and worked examples.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
